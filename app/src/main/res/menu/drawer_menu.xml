@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/index"
+            android:visible="true"
+            android:title="فهرس المصحف المرقم"
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/p1"
+            android:visible="true"
+            android:title="الجزء الأول"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p2"
+            android:visible="true"
+            android:title="الجزء الثانى"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p3"
+            android:visible="true"
+            android:title="الجزء الثالث"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p4"
+            android:title="الجزء الرابع"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p5"
+            android:visible="true"
+            android:title="الجزء الخامس"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p6"
+            android:visible="true"
+            android:title="الجزء السادس"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p7"
+            android:visible="true"
+            android:title="الجزء السابع"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p8"
+            android:visible="true"
+            android:title="الجزء الثامن"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p9"
+            android:visible="true"
+            android:title="الجزء التاسع"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p10"
+            android:visible="true"
+            android:title="الجزء العاشر"
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/p11"
+            android:visible="true"
+            android:title="الجزء الحادى عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p12"
+            android:visible="true"
+            android:title="الجزء الثانى عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p13"
+            android:visible="true"
+            android:title="الجزء الثالث عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p14"
+            android:title="الجزء الرابع عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p15"
+            android:visible="true"
+            android:title="الجزء الخامس عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p16"
+            android:visible="true"
+            android:title="الجزء السادس عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p17"
+            android:visible="true"
+            android:title="الجزء السابع عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p18"
+            android:visible="true"
+            android:title="الجزء الثامن عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p19"
+            android:visible="true"
+            android:title="الجزء التاسع عشر"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p20"
+            android:visible="true"
+            android:title="الجزء العشرون"
+            tools:ignore="HardcodedText" />
+
+        <item
+            android:id="@+id/p21"
+            android:visible="true"
+            android:title="الجزء الحادى و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p22"
+            android:visible="true"
+            android:title="الجزء الثانى و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p23"
+            android:visible="true"
+            android:title="الجزء الثالث و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p24"
+            android:title="الجزء الرابع و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p25"
+            android:visible="true"
+            android:title="الجزء الخامس و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p26"
+            android:visible="true"
+            android:title="الجزء السادس و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p27"
+            android:visible="true"
+            android:title="الجزء السابع و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p28"
+            android:visible="true"
+            android:title="الجزء الثامن و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p29"
+            android:visible="true"
+            android:title="الجزء التاسع و العشرون"
+            tools:ignore="HardcodedText" />
+        <item
+            android:id="@+id/p30"
+            android:visible="true"
+            android:title="الجزء الثلاثون"
+            tools:ignore="HardcodedText" />
+
+
+    </group>
+
+
+</menu>
